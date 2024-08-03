@@ -12,8 +12,8 @@
 
 1. Clone the repository:
    ```bash
-   git clone  [repo](https://github.com/NurbolatSatybaldy/nfactorial_task)
-   cd НАЗВАНИЕ nfactorial_task
+   git clone https://github.com/NurbolatSatybaldy/nfactorial_task.git
+   cd nfactorial_task
    ```
 
 2. Create virtual environment (Optional but highly recommended): 
